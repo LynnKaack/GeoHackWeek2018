@@ -1,0 +1,8 @@
+Hi, first code in Atom
+This is the second line
+git clone (https)
+cd (repository)
+git add --all
+git status
+git commit -m "message"
+git push
