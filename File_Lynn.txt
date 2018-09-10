@@ -1,1 +1,3 @@
 Lynn's test file
+
+I'm trying to change something this way so you can merge.
